@@ -17,8 +17,6 @@ This lab environment includes:
 - Authentication and security policies
 - Application SSO integrations
 
-> 📊 *Architecture diagram available in the `/architecture` folder*
-
 ---
 
 ## 🔑 Key Features & Implementations
